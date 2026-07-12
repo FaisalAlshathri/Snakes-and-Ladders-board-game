@@ -7,5 +7,5 @@ https://en.wikipedia.org/wiki/Snakes_and_ladders
 
 
 
-<img width="967" height="592" alt="image" src="https://github.com/user-attachments/assets/30c951ae-a12b-4b56-b43f-effdd302cfa9" />
+<img width="982" height="658" alt="image" src="https://github.com/user-attachments/assets/64ac4131-85e6-4e72-9f9a-167cb1a57825" />
 
