@@ -4,3 +4,8 @@ https://en.wikipedia.org/wiki/Snakes_and_ladders
 
 
 <img width="976" height="606" alt="image" src="https://github.com/user-attachments/assets/66fdee66-f6b8-48d8-8588-bb3a1500bde9" />
+
+
+
+<img width="967" height="592" alt="image" src="https://github.com/user-attachments/assets/30c951ae-a12b-4b56-b43f-effdd302cfa9" />
+
