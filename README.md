@@ -3,10 +3,6 @@ A terminal-based implementation of the classic Snakes and Ladders board game, wr
 https://en.wikipedia.org/wiki/Snakes_and_ladders
 
 
-# Snake and Ladder Simulation
-
-A terminal-based implementation of the classic Snakes and Ladders board game, written entirely in C. The project features an automated simulation mode that runs multiple self-played games to track and calculate win statistics.
-
 ## Features
 * Print board (2D array)
 * Place snakes and ladders (fixed and random locations)
@@ -19,7 +15,7 @@ A terminal-based implementation of the classic Snakes and Ladders board game, wr
 This project was built to demonstrate proficiency in:
 * C Functions
 * 2D Arrays & Grid Navigation
-* Pointers (Pass by Reference & Pass by Value)
+* Pointers Pass by Reference vs Pass by Value
 * Random Number Generation & Time/Sleep delays
 * Modulo Operator logic
 
